@@ -5,7 +5,7 @@ Created three components and named Home, NavBar, BrowseBooks, BookDetails, AddBo
 for mock data created dummyData.js and for Redux and slice are created in single js i.e booksSlice.js.
 The components are available in "src" folder.
 App component renders each component as per the route.
-NavBar renders in every component..
+NavBar renders in every component.
 Home component renders the buttons of category. When you click on the catgory, you will be able to see the books under such category.
 You can search for the books in Browse Books section and after filtering the category as well.
 You can able to read about the book once click on the view details.
